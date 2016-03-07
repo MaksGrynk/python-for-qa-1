@@ -24,7 +24,8 @@ Homework 1
 
         - python-for-qa
             - lesson1
-            - lesson2
+            - lesson2-1
+            - lesson2-2
             - lesson3
             - lesson4
             - lesson5
