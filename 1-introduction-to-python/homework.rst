@@ -6,31 +6,17 @@ EPAM Python for QA Training
 Homework 1
 ===========
 
-1. Install VirtualBox
+1. Install Python 2.7
 
-2. Run Ubuntu virtual machine
+2. PIP
+    
+    a. Install
+    b. Add requirements.txt to directory with homeworks
+    c. Add dependency to ``request`` package
 
-3. GitHub
+3. Install virtualenv and virtualenvwrapper
 
-    a. Create account 
-    b. Setup access
-    c. Create new repository
+4. Create new virtual environment for Python training
 
-4. Practice with Git
+5. Install ``requests`` package from 2.c using pip in virtual environment
 
-    a. Complete Git `tutorial <https://try.github.io/levels/1/challenges/1/>`_
-    b. Initialise local git repository
-    c. Create directories structure for home tasks:
-
-        - python-for-qa
-            - lesson1
-            - lesson2-1
-            - lesson2-2
-            - lesson3
-            - lesson4
-            - lesson5
-
-    d. Add README file
-    e. Push changes to GitHub
-
-5. Install PyCharm

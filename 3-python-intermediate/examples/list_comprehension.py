@@ -11,6 +11,3 @@ last_names = ['Wayne', 'Gordon', 'Pennyworth']
 
 heroes = ['{} {}'.format(f, l) for f, l in zip(first_names, last_names)]
 print(heroes)  # ['Bruce Wayne', 'James Gordon', 'Alfred Pennyworth']
-
-
-
