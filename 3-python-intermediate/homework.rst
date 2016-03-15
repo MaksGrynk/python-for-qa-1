@@ -9,12 +9,12 @@ Homework 3
 Level 1
 --------
 
-1. Write a program to generate list with all numbers divisible by 3 and 5
+1. Write a program to generate list with all numbers divisible by 2 and 3
 between 1 and 10000 using two approaches:
 
     - list comprehension
 
-    - map funciton
+    - map function
 
 2. Print a number of sentences in a file alice_in_wonderland.txt (a sentence
 shall end in either a dot . or a tripple-dot ...)
@@ -25,7 +25,12 @@ shall end in either a dot . or a tripple-dot ...)
 Level 2
 --------
 
-4. Exercise placeholder
+4. We need to decrease issues count and priority in 
+Python for QA - bugs list - Sheet1.csv. Write a program to decrease each issue
+priority to one level (critical -> high, high -> medium, medium -> low), 
+issues that have low level now should be removed. Save result into new CSV
+file.
+
 
 5. Write a script to automatically generate directories and files (empty 6 
 files with names task*.py where * is task number between 1 and 6) structure
@@ -43,7 +48,15 @@ for python-for-qa course. Result should looks like:
 Level3
 --------
 
-6. Exercise placeholder
+6. Please figure out information from nginx access logs file - ``log.txt``:
+
+    - all distinct request's status codes
+
+    - resources user's tried to access without permission (HTTP status 403)
+
+    - requests count in time range 15:11:00 - 15:26:00
+
+    - successful requests rate (2xx / all count)
 
 
 .. some examples copied from https://github.com/vkhoroz/python-training/
