@@ -10,31 +10,32 @@ Level 1
 --------
 
 1. Write a program to generate list with all numbers divisible by 2 and 3
-between 1 and 10000 using two approaches:
+   between 1 and 10000 using two approaches:
 
     - list comprehension
 
     - filter function
 
 2. Print a number of sentences in a file alice_in_wonderland.txt (a sentence
-shall end in either a dot . or a tripple-dot ...)
+   shall end in either a dot . or a tripple-dot ...)
 
-3. Exercise placeholder
+3. Exercise placeholder - list with strings, transform to dates, handle
+   case format is not supported.
 
 
 Level 2
 --------
 
-4. We need to decrease issues count and priority in 
-Python for QA - bugs list - Sheet1.csv. Write a program to decrease each issue
-priority to one level (critical -> high, high -> medium, medium -> low), 
-issues that have low level now should be removed. Save result into new CSV
-file.
+4. We need to decrease issues count and priority in
+   Python for QA - bugs list - Sheet1.csv. Write a program to decrease each issue
+   priority to one level (critical -> high, high -> medium, medium -> low),
+   issues that have low level now should be removed. Save result into new CSV
+   file.
 
 
-5. Write a script to automatically generate directories and files (empty 6 
-files with names task*.py where * is task number between 1 and 6) structure
-for python-for-qa course. Result should looks like:
+5. Write a script to automatically generate directories and files (empty 6
+   files with names task*.py where * is task number between 1 and 6) structure
+   for python-for-qa course. Result should looks like:
 
     - python-for-qa
         - lesson1
