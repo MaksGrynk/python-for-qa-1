@@ -53,7 +53,9 @@ Level3
 
     - all distinct request's status codes
 
-    - resources user's tried to access without permission (HTTP status 403)
+    - resources user's tried to access without permissions (HTTP status 403)
+
+    - created resources (HTTP status 201)
 
     - requests count in time range 15:11:00 - 15:26:00
 

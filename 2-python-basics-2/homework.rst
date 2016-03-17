@@ -44,7 +44,7 @@ between 1 and n and values are keys in square, by default n = 100.
 Level3
 --------
 
-10. Write a function to find is word palindrome.
+7. Write a function to find is word palindrome.
 Please use next validation procedure: calculate each letter occurrence in
 word, word will be palindrome if all letters occurrences count іs even number
 except one possible odd number.
