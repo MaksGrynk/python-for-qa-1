@@ -12,14 +12,18 @@ Homework 0
 
 3. GitHub
 
-    a. Create account 
+    a. Create account
+
     b. Setup access
+
     c. Create new repository
 
 4. Practice with Git
 
     a. Complete Git `tutorial <https://try.github.io/levels/1/challenges/1/>`_
+
     b. Initialise local git repository
+
     c. Create directories structure for home tasks:
 
         - python-for-qa
@@ -31,6 +35,7 @@ Homework 0
             - lesson5
 
     d. Add README file
+
     e. Push changes to GitHub
 
 5. Install PyCharm

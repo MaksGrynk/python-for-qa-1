@@ -9,9 +9,11 @@ Homework 1
 1. Install Python 2.7
 
 2. PIP
-    
+
     a. Install
+
     b. Add requirements.txt to directory with homeworks
+
     c. Add dependency to ``request`` package
 
 3. Install virtualenv and virtualenvwrapper

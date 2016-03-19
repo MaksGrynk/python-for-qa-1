@@ -34,8 +34,8 @@ Level 2
 --------
 
 4. Write a program to calculate the number of times that the string 'hi'
-appears anywhere in the given string and change 'hi' to 'bye'. Case should
-be ignored.
+   appears anywhere in the given string and change 'hi' to 'bye'. Case should
+   be ignored.
 
 5. Unite three lists to one and print it in reverse order::
 
@@ -47,9 +47,9 @@ Level3
 --------
 
 6. Having tuple ``('postgresql', 
-'semantic.amazonaws-prod.com', 5432, 'semantic', 'admin', '12345')`` with
-production database connection properties (dialect, host, port, database name,
-user name, password). Program should:
+   'semantic.amazonaws-prod.com', 5432, 'semantic', 'admin', '12345')`` with
+   production database connection properties (dialect, host, port, database
+   name, user name, password). Program should:
 
     - create ``prod_config`` dictionary, where dict keys are connection
       properties names and dict values are appropriate values from input tuple;
