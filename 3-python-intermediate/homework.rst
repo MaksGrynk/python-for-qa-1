@@ -19,8 +19,15 @@ Level 1
 2. Print a number of sentences in a file alice_in_wonderland.txt (a sentence
    shall end in either a dot . or a tripple-dot ...)
 
-3. Exercise placeholder - list with strings, transform to dates, handle
-   case format is not supported.
+3. Write a script to convert strings to date objects. Input:
+
+    - 11 Jan 2016
+
+    - 4 April 2011
+
+    - 11.03.2014
+
+    - 03/24/91
 
 
 Level 2
@@ -53,7 +60,7 @@ Level3
 
     - all distinct request's status codes
 
-    - resources user's tried to access without permissions (HTTP status 403)
+    - resources users tried to access without permissions (HTTP status 403)
 
     - created resources (HTTP status 201)
 
