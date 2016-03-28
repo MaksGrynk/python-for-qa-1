@@ -19,7 +19,7 @@ Level 1
 2. Print a number of sentences in a file alice_in_wonderland.txt (a sentence
    shall end in either a dot . or a tripple-dot ...)
 
-3. Write a script to convert strings to date objects. Input:
+3. Write a script to convert strings to date objects. Input list:
 
     - 11 Jan 2016
 
@@ -28,6 +28,9 @@ Level 1
     - 11.03.2014
 
     - 03/24/91
+
+   Script should have defined supported dates formats. Conversion should be in
+   the loop.
 
 
 Level 2
