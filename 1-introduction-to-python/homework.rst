@@ -14,7 +14,7 @@ Homework 1
 
     b. Add requirements.txt to directory with homeworks
 
-    c. Add dependency to ``request`` package
+    c. Add dependency to ``requests`` package
 
 3. Install virtualenv and virtualenvwrapper
 
