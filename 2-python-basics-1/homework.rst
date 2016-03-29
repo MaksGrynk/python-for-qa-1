@@ -3,7 +3,7 @@
 EPAM Python for QA Training
 ======================================
 
-Homework 2
+Homework 2-1
 ===========
 
 Level 1
@@ -43,7 +43,7 @@ Level 2
     list2 = [4, 5, 6]
     list3 = [7, 8, 9]
 
-Level3
+Level 3
 --------
 
 6. Having tuple ``('postgresql', 

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Хабрахабр / Интересные публикации</title>
+    <link>https://habrahabr.ru/</link>
+    <description><![CDATA[Интересные публикации на Хабрахабре]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habrahabr.ru</managingEditor>
+    <generator>habrahabr.ru</generator>
+    <pubDate>Tue, 29 Mar 2016 19:13:25 GMT</pubDate>
+    <lastBuildDate></lastBuildDate>
+        <image>
+            <link>https://habrahabr.ru/</link>
+            <url>https://habrahabr.ru/images/logo.png</url>
+            <title>Хабрахабр</title>
+        </image>
+                    <item>
+        <title><![CDATA[Рождение Chargeback’а]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280480/</guid>
+        <link>https://habrahabr.ru/post/280480/</link>
+        <description><![CDATA[<br/><img src="https://habrastorage.org/files/3e7/30b/a3e/3e730ba3e7b44c05a668a3ad0f501b52.jpg"/><br/>
+<br/>
+Данная статья явилась результатом небольшого исследования отличий развития карточной отрасли в США и России. Хотя целью исследования было выявления факторов, давших толчок развития электронным валютам у нас в объёмах, значительно опережающих запад, при том, что сама идеология построения Visa/MasterCard сильно превосходит централизованные виртуальные кошельки.<br/>
+<br/>
+В данном повествовании мы затронем только один фактор – недоверие Россиян к картам. И первая деталь, которая сразу бросается в глаза – это Visa Zero Liability на сайте американской Visa, которая гласит, что “Вы не будете нести ответственность за неавторизованное использование вашей карты. Вы защищены, если ваша карта потеряна, украдена или используется мошеннически”. А внизу маленькими буквами подписано “Покрывает только карты, эмитированные в США”. Но дорогой читатель конечно знает, что это правило является одним из основных правил МПС (международных платежных систем) и работает так же хорошо и в России. Только вы когда-нибудь слышали, чтобы хоть в одном банке вам объясняли – “в случае чего мы вернём ваши деньги”? Я – нет.<br/>
+<br/>
+ <a href="https://habrahabr.ru/post/280480/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 16:15:27 GMT</pubDate>
+        <author>TC40</author>
+        <category><![CDATA[Платежные системы]]></category><category><![CDATA[Блог компании ChronoPay]]></category>
+        <category><![CDATA[банковские карты]]></category><category><![CDATA[visa]]></category><category><![CDATA[mastercard]]></category><category><![CDATA[chargeback]]></category><category><![CDATA[платёжные системы]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Видео-туториалсы запуска вычислительных задач на Python, R, С++, Octave и Blender во FlyElelephant]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280472/</guid>
+        <link>https://habrahabr.ru/post/280472/</link>
+        <description><![CDATA[<br/>Пару недель назад, наша команда <a href="https://habrahabr.ru/company/flyelephant/blog/278751/">выпустила</a> свежий релиз <a href="https://flyelephant.net">FlyElelephant</a> — платформа для ученых, которая предоставляет готовую вычислительную инфраструктуру для проведения расчетов, помогает находить партнеров и совместно работать над проектами, а также управлять всеми данными из одного места.<br/>
+<br/>
+В качестве вычислительного ресурса сейчас используется облако Azure, а пользователи могут запускать вычислительные задачи, написанные с помощью С++ (с поддержкой OpenMP), R, Python, Octave, Scilab, Java, Julia, OpenFOAM, GROMACS, Blender на серверах с количеством ядер от 1 до 32 и оперативной памятью до 448 ГБ.<br/>
+<br/>
+Сегодня мы хотим поделиться <a href="https://flyelephant.net/documentation/ru/Video_Tutorials/">видео-туториалсами</a> запуска задач во FlyElelephant. Под катом вы найдете видео, как запускать вычислительные задачи, написанные с помощью С++, R, Python, Octave и рендерить изображения с помощью Blender, а также промо-код для получения бесплатных дополнительных часов работы ваших задач.<br/>
+ <a href="https://habrahabr.ru/post/280472/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 15:30:00 GMT</pubDate>
+        <author>m31</author>
+        <category><![CDATA[R]]></category><category><![CDATA[Python]]></category><category><![CDATA[Data Mining]]></category><category><![CDATA[C++]]></category><category><![CDATA[Блог компании FlyElephant]]></category>
+        <category><![CDATA[FlyElephant]]></category><category><![CDATA[HPC]]></category><category><![CDATA[облачные вычисления]]></category><category><![CDATA[научные расчёты]]></category><category><![CDATA[параллельное программирование]]></category><category><![CDATA[c++]]></category><category><![CDATA[openmp]]></category><category><![CDATA[стартапы]]></category><category><![CDATA[GCC]]></category><category><![CDATA[R]]></category><category><![CDATA[Python]]></category><category><![CDATA[Octave]]></category><category><![CDATA[Scilab]]></category><category><![CDATA[Java]]></category><category><![CDATA[Julia]]></category><category><![CDATA[OpenFOAM]]></category><category><![CDATA[GROMACS]]></category><category><![CDATA[Blender]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Flume — управляем потоками данных. Часть 1]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280386/</guid>
+        <link>https://habrahabr.ru/post/280386/</link>
+        <description><![CDATA[<br/>Привет, Хабр! В этом цикле статей я планирую рассказать о том, как можно организовать сбор и передачу данных с помощью одного из инструментов Hadoop — <a href="https://flume.apache.org/">Apache Flume</a>. <br/>
+<br/>
+<a href="https://habrahabr.ru/company/dca/blog/280386/"><div style="text-align:center;"><img src="https://habrastorage.org/files/8f9/b03/233/8f9b03233c1349f69b0e495ad4a47946.jpg" /></div></a> <a href="https://habrahabr.ru/post/280386/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 15:44:34 GMT</pubDate>
+        <author>Deneb</author>
+        <category><![CDATA[Хранение данных]]></category><category><![CDATA[Разработка]]></category><category><![CDATA[Анализ и проектирование систем]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Блог компании DCA (Data-Centric Alliance)]]></category>
+        <category><![CDATA[big data]]></category><category><![CDATA[flume]]></category><category><![CDATA[hadoop]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Частотный словарь запрещенных сайтов]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280470/</guid>
+        <link>https://habrahabr.ru/post/280470/</link>
+        <description><![CDATA[<br/><a href="https://habrahabr.ru/post/280470/"><img src="https://habrastorage.org/files/f29/b84/26d/f29b8426da1248dcb64cf4c6192cb68f.png"/></a><br/>
+<br/>
+Исследование проводилось в целях создания корпуса слов сайтов, заблокированных государственными органами Российской Федерации.<br/>
+ <a href="https://habrahabr.ru/post/280470/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 15:22:02 GMT</pubDate>
+        <author>daocrawler</author>
+        <category><![CDATA[Семантика]]></category><category><![CDATA[Открытые данные]]></category><category><![CDATA[Визуализация данных]]></category><category><![CDATA[Data Mining]]></category>
+        <category><![CDATA[роскомнадзор]]></category><category><![CDATA[запрещенные сайты]]></category><category><![CDATA[корпус слов]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[PowerWare новый вымогатель использующий PowerShell]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280466/</guid>
+        <link>https://habrahabr.ru/post/280466/</link>
+        <description><![CDATA[<br/>Black Carbon Threat Research Team недавно обнаружили новое семейство вымогателей, получившее название PowerWare. Они нацелены на структуры использующее Microsoft Word и PowerShell. PowerShell является языком сценариев для операционных систем Microsoft.<br/>
+<br/>
+<img src="https://habrastorage.org/files/f90/2ae/a5c/f902aea5c54f45a6b612370b93c7e202.png"/> <a href="https://habrahabr.ru/post/280466/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 15:25:45 GMT</pubDate>
+        <author>habit</author>
+        <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[PowerShell]]></category><category><![CDATA[Блог компании ua-hosting.company]]></category>
+        <category><![CDATA[PowerWare]]></category><category><![CDATA[PowerShell]]></category><category><![CDATA[вимогатели]]></category><category><![CDATA[взлом]]></category><category><![CDATA[шифрование данных]]></category><category><![CDATA[Carbon Black]]></category><category><![CDATA[Microsoft Word]]></category><category><![CDATA[cmd.exe]]></category><category><![CDATA[winword.exe]]></category><category><![CDATA[excel.exe]]></category><category><![CDATA[powerpnt.exe]]></category><category><![CDATA[outlook.exe]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Диалоги о Java Performance]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280420/</guid>
+        <link>https://habrahabr.ru/post/280420/</link>
+        <description><![CDATA[<br/>Каждый год на <a href="http://javapoint.ru/">JPoint</a> эксперты выступают с хардкорными докладами о производительности Java. И ни разу не было скучно — вопрос сохраняет актуальность на протяжении многих лет. О том, откуда растут ноги у мифов, что делает JVM, как измерять производительность, при чём тут бизнес-требования заказчика и как обойти часть граблей мы поговорили с экспертами, для которых Java performance — не проблема, а работа. <br/>
+<img src="https://habrastorage.org/files/517/09c/744/51709c7445304c37baa6a111219343e9.png"/><br/>
+ <a href="https://habrahabr.ru/post/280420/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 14:14:41 GMT</pubDate>
+        <author>real_ales</author>
+        <category><![CDATA[Разработка]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Высокая производительность]]></category><category><![CDATA[JAVA]]></category><category><![CDATA[Блог компании JUG.ru Group]]></category>
+        <category><![CDATA[производительность]]></category><category><![CDATA[производительность java]]></category><category><![CDATA[java performance]]></category><category><![CDATA[jvm]]></category><category><![CDATA[jvm options]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Настройка и использование Apache Ignite в качестве MyBatis кэш второго уровня (L2 cache)]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280452/</guid>
+        <link>https://habrahabr.ru/post/280452/</link>
+        <description><![CDATA[<br/>В этой статье я расскажу о том, как настроить apache ignite в качестве 2-го уровня кэша для MyBatis ипосмотреть запись кэша в Apache Ignite.<br/>
+<br/>
+<a href="https://habrahabr.ru/company/at_consulting/blog/280452/"><img src="https://habrastorage.org/getpro/habr/post_images/8ad/e26/a61/8ade26a61eff759d4ec5e753e16b3226.jpg" alt="image"/></a><br/>
+ <a href="https://habrahabr.ru/post/280452/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 14:01:46 GMT</pubDate>
+        <author>shamim</author>
+        <category><![CDATA[Серверное администрирование]]></category><category><![CDATA[Серверная оптимизация]]></category><category><![CDATA[ИТ-инфраструктура]]></category><category><![CDATA[Блог компании AT Consulting]]></category>
+        <category><![CDATA[Apache Ignite]]></category><category><![CDATA[MyBatis]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[[Перевод] Wearable Smart Gateway — носимое устройство для экстренных служб]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280256/</guid>
+        <link>https://habrahabr.ru/post/280256/</link>
+        <description><![CDATA[<br/><img align="left" src="https://habrastorage.org/files/af0/6ff/9b7/af06ff9b77904490a386a08979302985.jpg"/>Wearable Smart Gateway (WSG) — это первый в мире носимый шлюз связи, дающий возможность сотрудникам экстренных служб безопасно передавать мультимедиа данные по глобальным сетям в реальном времени. Устройство WSG разработано компанией Mutualink с помощью технологий Intel. WSG предоставляет штабам экстренных служб доступ к оперативным ситуационным данным, включая видео, биометрические данные и данные об окружающей среде. Возможности WSG существенно повышают оперативность получения информации и снижают время реагирования в быстро меняющихся ситуациях. Благодаря этому службы полиции, пожарной охраны и скорой медицинской помощи могут быстрее принимать информированные решения и преодолевать трудности, вызванные нехваткой информации.<br/>
+В этой статье описывается история разработки WSG и используемые в этих устройствах технологии. На момент написания этой статьи устройство WSG находилось на этапе прототипа, его коммерческое развертывание запланировано на 2016 год. Поэтому в статье также описываются перспективы развития устройства. Помимо этого, обсуждаются технологии WSG в контексте современных технологий связи.<br/>
+ <a href="https://habrahabr.ru/post/280256/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 06:44:00 GMT</pubDate>
+        <author>saul</author>
+        <category><![CDATA[Разработка для интернета вещей]]></category><category><![CDATA[Блог компании Intel]]></category>
+        <category>Intel IoT Gateway</category><category>Internet of Things</category><category>Bluetooth</category><category>Wi-Fi</category><category>Intel Edison platform</category>
+    </item>
+
+        <item>
+        <title><![CDATA[Поймай меня если сможешь. Catchers Helpdesk плагин для WordPress]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280320/</guid>
+        <link>https://habrahabr.ru/post/280320/</link>
+        <description><![CDATA[<br/><img src="https://habrastorage.org/files/ee9/f7b/183/ee9f7b183ee4491b8d8df5d1eeca0e52.jpg" alt="image"/><br/>
+<br/>
+В то время, как Европа борется с бесконечным наплывом мигрантов, не успевая обрабатывать обращения, мы приготовили для любителей WordPress новый плагин Catchers Helpdesk для организации службы поддержки пользователей. <br/>
+<br/>
+Нам пришлось постараться сделать так, чтобы плагин не выглядел чем-то инородным в инфраструктуре WordPress и при этом работал как автомат Калашникова. Об этом-то и пойдет речь далее. <br/>
+<br/>
+<b>Содержание:</b><br/>
+<br/>
+<ul>
+<li>Идея и принципы </li>
+<li>Алый океан WordPress</li>
+<li>PRO — виденье</li>
+<li>Рецепт Helpdesk</li>
+</ul><br/>
+ <a href="https://habrahabr.ru/post/280320/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 08:07:38 GMT</pubDate>
+        <author>Kirim</author>
+        <category><![CDATA[Интерфейсы]]></category><category><![CDATA[WordPress]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Help Desk Software]]></category>
+        <category><![CDATA[helpdesk]]></category><category><![CDATA[customer support]]></category><category><![CDATA[wordpress]]></category><category><![CDATA[wordpress plugin]]></category><category><![CDATA[плагин]]></category><category><![CDATA[хелпдеск]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Новое на PHDays: площадка Hardware Village]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280456/</guid>
+        <link>https://habrahabr.ru/post/280456/</link>
+        <description><![CDATA[<br/><a href="https://habrahabr.ru/company/pt/blog/280456/"><img src="https://habrastorage.org/files/2c2/921/caa/2c2921caaea444e4b05b40a6dbe09d59.jpg"/></a><br/>
+<br/>
+В этом году впервые на <a href="http://www.phdays.ru/">Positive Hack Days</a> развернется открытая площадка Hardware Village. Команда этого проекта решила сняться с якоря и принять участие в шестом ежегодном форуме PHDays. Любители хакерского железа смогут «пощупать» оборудование и посетить мастер-классы, на которых ребята поделятся знаниями в области взлома и низкоуровневого программирования.<br/>
+<br/>
+Hardware Village рассчитан как на опытных хардварщиков, так и на начинающих энтузиастов. В течение двух дней посетителей ждут мастер-классы и лекции матерых хакеров, которые расскажут о своем опыте. Для всех желающих будут доступны целые развалы хакерского железа, которое можно не только посмотреть, но и опробовать в деле. <a href="https://habrahabr.ru/post/280456/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 14:07:51 GMT</pubDate>
+        <author>ptsecurity</author>
+        <category><![CDATA[Блог компании Positive Technologies]]></category>
+        <category><![CDATA[hardware]]></category><category><![CDATA[железо]]></category><category><![CDATA[phdays]]></category><category><![CDATA[информационная безопасность]]></category><category><![CDATA[positive hack days]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Я покажу тебе мир без STM32]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280145/</guid>
+        <link>https://habrahabr.ru/post/280145/</link>
+        <description><![CDATA[<br/>Компания ЭФО перезапускает сайт <a href="http://mymcu.ru/?utm_source=Habr&amp;utm_medium=WorldWithoutSTM&amp;utm_campaign=HabrWithoutSTM_BeforeCut">myMCU.ru</a> — портал для параметрического поиска микроконтроллеров и сопутствующих решений.<br/>
+<br/>
+Мы внимательно изучили ассортимент ведущих производителей микроконтроллеров и составили единую базу микросхем, отладочных плат и программных средств разработки. Сегодня расскажем о том, как создавался сайт и какие проблемы пришлось решить, чтобы объединить самые разные контроллеры в единую базу для поиска и сохранить подробные описания для каждой микросхемы.<br/>
+<br/>
+Статья будет интересна в первую очередь разработчикам встраиваемых систем — речь пойдет о проблемах выбора аппаратных платформ, а не об идеальных веб-интерфейсах и этом вашем юзабилити.<br/>
+<br/>
+<img src="https://habrastorage.org/files/136/313/6fa/1363136fa4534c0e85360a7647e525ff.png"/><br/>
+<br/>
+ <a href="https://habrahabr.ru/post/280145/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 14:28:42 GMT</pubDate>
+        <author>uuuulala</author>
+        <category><![CDATA[Разработка для интернета вещей]]></category><category><![CDATA[Разработка]]></category><category><![CDATA[Промышленное программирование]]></category><category><![CDATA[Программирование микроконтроллеров]]></category><category><![CDATA[Блог компании ЭФО]]></category>
+        <category><![CDATA[Atmel]]></category><category><![CDATA[FTDI]]></category><category><![CDATA[Silicon Labs]]></category><category><![CDATA[Infineon]]></category><category><![CDATA[Wiznet]]></category><category><![CDATA[продам микроконтроллер]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[SaaS-решения для защиты любых устройств в любом месте: почему это проще и дешевле + пример внедрения]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280390/</guid>
+        <link>https://habrahabr.ru/post/280390/</link>
+        <description><![CDATA[<br/><img src="https://habrastorage.org/files/760/d20/b6b/760d20b6b845447980debf441b79fd0f.jpg"/><br/>
+<br/>
+В наши дни предприятия любых размеров при ведении бизнес-деятельности все больше зависят от своих ИТ-систем и, как результат, они стали более чувствительны к уязвимостям и другим проблемам ИТ-безопасности. Добавьте к этому возросшую мобильность персонала и объективные трудности в управлении удаленными и мобильными устройствами. В итоге мы имеем сценарий, при котором управление операциями безопасности стали более комплексными, дорогостоящими и сложными. Фактически, многие сбои и простои ИТ-систем вызваны человеческими ошибками в силу ручного характера управления традиционными локальными ИТ-решениями. <br/>
+<br/>
+Для решения этих проблем появляются новые решения класса SaaS, которые способны заменить или расширить возможности традиционных локальных решений. В частности, SaaS-решения по безопасности конечных точек, такие как Panda Endpoint Protection, могут быть доступны в любое время с любого устройства через обычный веб-браузер, обеспечивая простое и понятное централизованное управление файерволом и защитой от вредоносных программ любых устройств вне зависимости от их местоположения (в локальной сети, в удаленных офисах или у мобильных сотрудников) без дополнительной инфраструктуры.<br/>
+<br/>
+Кроме того, зачастую внедрение и использование SaaS-решений не требует специальных технических навыков. Например, для внедрения централизованной защиты с Panda Endpoint Protection в компании из 15-20 компьютеров не потребуется даже системный администратор. <a href="https://habrahabr.ru/post/280390/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 07:52:16 GMT</pubDate>
+        <author>PSecurity</author>
+        <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Вирусы и антивирусы]]></category><category><![CDATA[Блог компании Panda Security в России]]></category>
+        <category><![CDATA[SaaS]]></category><category><![CDATA[информационная безопасность]]></category><category><![CDATA[Panda Security]]></category><category><![CDATA[Panda Endpoint Protection Plus]]></category><category><![CDATA[антивирус]]></category><category><![CDATA[облачные сервисы]]></category><category><![CDATA[внедрение по]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Palantir и отмывание денег]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280434/</guid>
+        <link>https://habrahabr.ru/post/280434/</link>
+        <description><![CDATA[<br/>Вместе с компанией <a href="http://www.edsd.ru/ru/uslugi/localizacija">Edison</a> продолжаем расследование возможностей системы Palantir.<br/>
+<br/>
+<img src="https://habrastorage.org/files/923/603/ec2/923603ec200c45b0a739e87905c60ba0.jpg"/><br/>
+<br/>
+<b>Palantir</b> — <i>частная американская компания</i>, разработчик программного обеспечения анализа данных для организаций, основные заказчики — спецслужбы, инвестиционные банки, хедж-фонды. Основана в 2003 году группой инвесторов — выходцев из PayPal во главе с Питером Тилем.<br/>
+<br/>
+До 2008 года ЦРУ было единственным заказчиком компании, когда с его разрешения программное обеспечение Palantir начало внедряться правоохранителям и в другие американские спецслужбы. С 2010 года началась активная кампания по публичному продвижению продукции компании на широком рынке.<br/>
+<br/>
+В конце 2010 года представлены результаты шестнадцатимесячной разработки Palantir для тактико-аналитической поддержки военных операций в Афганистане, проводимых Армией США, в которой кроме серверных технологий и настольных клиентских программ применены также мобильные приложения для носимых устройств; вскоре в прессе появились сведения о том, что технологии Palantir предположительно были задействованы в спецоперации по уничтожению лидера «Аль-Каиды» Усамы бин Ладена весной 2011 года.<br/>
+<br/>
+По состоянию на начало 2016 года считается четвёртым по капитализации стартапом в мире (после Uber, Xiaomi и Airbnb) с оценкой стоимости бизнеса в $20 млрд.<br/>
+<br/>
+На официальном канале Palantir есть видео с демонстрацией работы аналитика, использующего систему Palantir в ходе расследования отмывания денег. По-моему, как-то так видели пользу информационных технологий «отцы-основатели» <a href="https://habrahabr.ru/company/edison/blog/279241/">Вэнивар Буш («As We May Think»)</a>, <a href="https://habrahabr.ru/company/edison/blog/279809/">Дуглас Энгельбарт («The Mother of All Demos»)</a> и <a href="https://habrahabr.ru/company/edison/blog/277903/">Джозеф Ликлайдер («Интергалактическая компьютерная сеть» и «Симбиоз человека и компьютера»)</a>, о которых я писал немного ранее.<br/>
+<br/>
+<i>(За помощь с переводом спасибо Ворсину Алексею)</i><br/>
+<br/>
+ <a href="https://habrahabr.ru/post/280434/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 11:59:00 GMT</pubDate>
+        <author>MagisterLudi</author>
+        <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Интерфейсы]]></category><category><![CDATA[Визуализация данных]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Блог компании Edison]]></category>
+        <category><![CDATA[palantir]]></category><category><![CDATA[разработка]]></category><category><![CDATA[разведка]]></category><category><![CDATA[слежка]]></category><category><![CDATA[аналитика]]></category><category><![CDATA[edisonsoftware]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Alljoyn: взгляд embedded разработчика. Часть 3: Портируем на МК SAMD21]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/278363/</guid>
+        <link>https://habrahabr.ru/post/278363/</link>
+        <description><![CDATA[<br/><iframe width="560" height="315" src="https://www.youtube.com/embed/9zMct9rVH3w?feature=oembed" frameborder="0" allowfullscreen></iframe><br/>
+В <a href="https://habrahabr.ru/company/rainbow/blog/273859/">предыдущих статьях</a> мы разбирались с основами Alljoyn и средствами, помогающими отладке. Пришло время писать код для микроконтроллера. Кратко напомню архитектуру LSF (Lighting Software Framework).<br/>
+В библиотеке LSF предусмотрено три сущности:<br/>
+<ul>
+<li>Thin-лампочка (lamp service),</li>
+<li>Router (lighting controller service),</li>
+<li>«приложение» (lighting sample application).</li>
+</ul><br/>
+Thin-лампочка это та часть, которая «крутится» непосредственно в микроконтроллере нашей умной лампочки. Именно ею мы сегодня и займемся. Остальное было весьма подробно описано ранее, очередной раз останавливаться не будем. <a href="https://habrahabr.ru/post/278363/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 06:31:47 GMT</pubDate>
+        <author>marus-ka</author>
+        <category><![CDATA[Разработка для интернета вещей]]></category><category><![CDATA[Программирование микроконтроллеров]]></category><category><![CDATA[Блог компании Rainbow]]></category>
+        <category><![CDATA[alljoyn]]></category><category><![CDATA[allseen]]></category><category><![CDATA[интернет вещей]]></category><category><![CDATA[atmel]]></category><category><![CDATA[samd21]]></category><category><![CDATA[winc1500]]></category><category><![CDATA[cortex-m0]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Преимущества концепции облака OpenStack и его отличие от традиционной архитектуры]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280428/</guid>
+        <link>https://habrahabr.ru/post/280428/</link>
+        <description><![CDATA[<br/>Сегодня затраты на ИТ являются существенной частью бюджетов, и, как следствие — компании любых размеров заинтересованы в их сокращении. Ожидается, что ИТ будут приносить больше пользы при меньших затратах. При этом по мере развития все современные компании сталкиваются с вопросом увеличения потребностей в ИТ-ресурсах. В такой ситуации следует обратить внимание на облачные технологии, которые дают возможность модернизации подходов к управлению ИТ-инфраструктурой за счет использования новейших технологий, высокого уровня стандартизации, гибкости внедряемых решений и простоты масштабирования. OpenStack же является одним из самых распространенных решений для организации облачных сред типа Infrastructure as a Service (IaaS).<br/>
+<br/>
+<img src="https://habrastorage.org/files/43e/be0/cde/43ebe0cdee544afaa1b8d75eaaf7369e.jpg" alt="image"/> <a href="https://habrahabr.ru/post/280428/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 11:47:41 GMT</pubDate>
+        <author>ICLServices</author>
+        <category><![CDATA[Облачные вычисления]]></category><category><![CDATA[ИТ-инфраструктура]]></category><category><![CDATA[Беспроводные технологии]]></category><category><![CDATA[Open source]]></category><category><![CDATA[Блог компании ICL Services]]></category>
+        <category><![CDATA[openstack]]></category><category><![CDATA[архитектура]]></category><category><![CDATA[бюджет]]></category><category><![CDATA[ит-инфраструктура]]></category><category><![CDATA[облачная среда]]></category><category><![CDATA[iaas]]></category><category><![CDATA[api]]></category><category><![CDATA[исходный код]]></category><category><![CDATA[vmware vsphere]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Исследование проблем производительности вызова ClassLoader.getResourceAsStream]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280340/</guid>
+        <link>https://habrahabr.ru/post/280340/</link>
+        <description><![CDATA[<br/><img src="https://habrastorage.org/files/f17/6ea/a03/f176eaa03305493d871870040b054a84.png" alt="image"/><br/>
+<br/>
+Если Вам интересно, как вызов метода ClassLoader.getResourceAsStream() в Android приложении может занимать 1432ms и насколько опасны могут быть некоторые библиотеки — прошу под кат.<br/>
+<br/>
+ <a href="https://habrahabr.ru/post/280340/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 11:02:25 GMT</pubDate>
+        <author>antonkrasov</author>
+        <category><![CDATA[Разработка под Android]]></category><category><![CDATA[Разработка мобильных приложений]]></category>
+        <category><![CDATA[android development]]></category><category><![CDATA[performance]]></category><category><![CDATA[investigation]]></category><category><![CDATA[aosp]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Установка Битрикс24 на IIS сервер с использованием MSSQL и AD]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280402/</guid>
+        <link>https://habrahabr.ru/post/280402/</link>
+        <description><![CDATA[<br/>На днях, встала задача протестировать этот корпоративный портал в коробочной версии. Потратив немало времени и сил, решил описать сей процесс, чтобы сэкономить кому-то лишние усилия. <br/>
+Начнем с того, что в своей организации у меня «экосистема» ПО построена на базе Windows систем и присутствует большое количество прикладных приложений, написанных под наши задачи и требовалось использование MSSQL для их интеграции. Посему, было решено выделить виртуальную машину с Windows Server для тестирования продукта. <br/>
+<br/>
+Почитав предлагаемые решения, решил попробовать три варианта:  <a href="https://habrahabr.ru/post/280402/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 08:56:25 GMT</pubDate>
+        <author>Evil_Demon</author>
+        <category><![CDATA[IIS]]></category><category><![CDATA[1С-Битрикс]]></category>
+        <category><![CDATA[битрикс24]]></category><category><![CDATA[IIS]]></category><category><![CDATA[active directory]]></category><category><![CDATA[ms sql server]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[IBM и Hilton разработали робота-консьержа на основе когнитивной системы Watson]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280416/</guid>
+        <link>https://habrahabr.ru/post/280416/</link>
+        <description><![CDATA[<br/><b>Робот назван Connie в честь <a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BB%D1%82%D0%BE%D0%BD,_%D0%9A%D0%BE%D0%BD%D1%80%D0%B0%D0%B4">Конрада Хилтона</a></b><br/>
+<br/>
+<img src="https://habrastorage.org/files/089/068/f7a/089068f7a522484ea3beeec0eac934a2.jpg"/><br/>
+<br/>
+Компания Hilton, управляющая сетью одноименных отелей, сейчас тестирует робота-консьержа Connie. Этот робот уже не концепт, он работает в отеле Hilton McLean в Вирджинии, США. Программная платформа Connie основана на функционале когнитивной системы Watson. Постояльцы могут задавать роботизированному помощнику вопросы о находящихся поблизости ресторанах, туристических достопримечательностях, самом отеле. К сожалению, робот пока не может резервировать места для клиентов отеля и выполнять работу администратора. Пока – только ответы на вопросы.<br/>
+<br/>
+Аппаратная платформа — это робот Nao, популярная модель французской компании Aldebaran. Стоимость ее составляет $8000. Общается робот на разных языках, а работает он не только в отельном бизнесе, но и в других сферах, включая японские банки. <br/>
+ <a href="https://habrahabr.ru/post/280416/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 10:11:16 GMT</pubDate>
+        <author>marks</author>
+        <category><![CDATA[Разработка робототехники]]></category><category><![CDATA[Облачные вычисления]]></category><category><![CDATA[Блог компании IBM]]></category>
+        <category><![CDATA[connie]]></category><category><![CDATA[когнитивные системы]]></category><category><![CDATA[IBM]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Эксплоит для уязвимости в Cisco UCS Manager: так ли страшен чёрт?]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280364/</guid>
+        <link>https://habrahabr.ru/post/280364/</link>
+        <description><![CDATA[<br/>В сети <a href="https://www.exploit-db.com/exploits/39568/">опубликован эксплоит</a> для <a href="https://habrahabr.ru/company/it-grad/blog/177283/">Cisco UCS Manager</a>. Указывается, что уязвимы версии 2.1(1b) и, возможно, другие.<br/>
+На сайте Cisco в разделе <a href="http://www.cisco.com/c/en/us/support/docs/csa/cisco-sa-20140926-bash.html">GNU Bash Environment Variable Command Injection Vulnerability</a> указано, что доступны обновлённые версии продуктов, исправляющих уязвимость:<br/>
+<ul>
+<li>3.0(1d) (Available)</li>
+<li>2.2(3b) (Available)</li>
+<li>2.2(2e) (Available)</li>
+<li>2.2(1f) (Available)</li>
+<li>2.1(3f) (Available)</li>
+<li>2.0(5g) (Available) </li>
+</ul><br/>
+Собственное тестирование показало, что уязвимы версии:<br/>
+<ul>
+<li>2.2(1d)</li>
+<li>2.2(1c)</li>
+<li>2.1(2a)</li>
+</ul><br/>
+Не уязвимы:<br/>
+<ul>
+<li>2.2(6c)</li>
+<li>2.2(3e)</li>
+</ul><br/>
+Мы провели анализ работы эксплоита, а также количество уязвимых устройств. Используя поисковик Shodan и наш собственный поисковый аналог (да здравствует импортозамещение). И вот что получилось. <a href="https://habrahabr.ru/post/280364/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Tue, 29 Mar 2016 10:29:30 GMT</pubDate>
+        <author>shanker</author>
+        <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Cisco]]></category>
+        <category><![CDATA[Shellshock]]></category><category><![CDATA[Cisco]]></category><category><![CDATA[CVE-2014-6278]]></category>
+    </item>
+
+        <item>
+        <title><![CDATA[Teigha for Architecture: First project]]></title>
+        <guid isPermaLink="true">https://habrahabr.ru/post/280284/</guid>
+        <link>https://habrahabr.ru/post/280284/</link>
+        <description><![CDATA[<br/>В статьях <a href="https://habrahabr.ru/post/265617/">AutoCAD Architecture: First project</a> и <a href="https://habrahabr.ru/post/271571/">Введение в ACA</a> я кратко рассказал о том что такое AutoCAD Architecture (ACA), чем он отличается от обычного Автокада, какие в нем реализованы объекты и показал простейший случай работы со стенами из .NET плагина.<br/>
+<br/>
+В данной статье я расскажу о библиотеке Teigha — альтернативе для работы с dwg файлами и объектами ACA. Мы напишем небольшой пример, который создает дом из ACA-объектов и сохраняет его в dwg файл. Затем, попробуем открыть этот файл в AutoCAD Architecture и проверить, совместимы ли эти файлы с оригинальным Автокадом.<br/>
+<br/>
+<img src="https://habrastorage.org/files/570/815/d84/570815d8469d4a41957c21cdee48381d.png"/><br/>
+<br/>
+ <a href="https://habrahabr.ru/post/280284/#habracut">Читать дальше &rarr;</a>]]></description>
+        
+        <pubDate>Mon, 28 Mar 2016 15:58:53 GMT</pubDate>
+        <author>aabramovsky</author>
+        <category><![CDATA[CAD/CAM]]></category>
+        <category><![CDATA[Teigha]]></category><category><![CDATA[Teigha for Architecture]]></category><category><![CDATA[ACA]]></category><category><![CDATA[Autocad]]></category><category><![CDATA[autocad architecture]]></category>
+    </item>
+
+
+
+</channel>
+</rss>

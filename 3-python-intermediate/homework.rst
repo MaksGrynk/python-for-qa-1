@@ -56,7 +56,7 @@ Level 2
             ...
 
 
-Level3
+Level 3
 --------
 
 6. Please figure out information from nginx access logs file - ``log.txt``:

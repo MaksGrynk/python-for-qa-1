@@ -3,7 +3,7 @@
 EPAM Python for QA Training
 ======================================
 
-Homework 2
+Homework 2-2
 ===========
 
 Level 1
@@ -41,7 +41,7 @@ Level 2
 6. Write a function that returns dictionary where keys are even numbers
    between 1 and n and values are keys in square, by default n = 100.
 
-Level3
+Level 3
 --------
 
 7. Write a function to find is word palindrome.
