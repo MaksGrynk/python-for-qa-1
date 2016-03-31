@@ -49,10 +49,11 @@ Level 3
 6. Having tuple ``('postgresql', 
    'semantic.amazonaws-prod.com', 5432, 'semantic', 'admin', '12345')`` with
    production database connection properties (dialect, host, port, database
-   name, user name, password). Program should:
+   name, user name, password), program should:
 
     - create ``prod_config`` dictionary, where dict keys are connection
-      properties names and dict values are appropriate values from input tuple;
+      properties names and dict values are appropriate values from the input
+      tuple;
 
     - create ``staging_config`` dictionary with the same keys and values as 
       ``prod_config``;
@@ -61,7 +62,7 @@ Level 3
       'semantic.amazonaws-staging.com' and password to 'root';
 
     - for ``prod_config`` and ``staging_config`` print connection strings in
-      format
+      the following format
       ``{dialect}://{user name}:{password}@{host}:{post}/{database name}``
 
 .. some examples copied from https://github.com/vkhoroz/python-training/

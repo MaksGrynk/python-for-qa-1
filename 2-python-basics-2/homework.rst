@@ -9,12 +9,12 @@ Homework 2-2
 Level 1
 --------
 
-1. Write a function which takes a string and returns the first 10
-   characters off it concatenated with the last 10 characters.
+1. Write a function which takes a string and returns its first 10 characters
+   concatenated with the last 10 characters.
 
-2. Write a function that takes a comma-separated string and returns a 
-   last element (separated by a last comma) or the entire string if there is
-   no comma in it.
+2. Write a function that takes a comma-separated string and returns the last
+   element (separated by the last comma) or the entire string, if there is no
+   comma in it.
 
 3. Write a function that takes a list and returns a new list that
    contains all the elements of the first list minus all the duplicates::
@@ -29,9 +29,10 @@ Level 2
    variables combinations.
 
 5. Write a function to return the sum of the numbers in the array,
-   returning 0 for an empty array. Except the number 13 is very unlucky, so it
-   does not count and numbers that come immediately after a 13 also do not 
-   count. Array could contain strings and boolean values (do not count them)::
+   returning 0 for an empty array. Since the number 13 is very unlucky,
+   it does not count, and numbers that come immediately after a 13 also do
+   not count. Array could contain strings and boolean values (do not count
+   them too)::
 
     sum13([1, 2, 2, 1]) -> 6
     sum13([1, 1]) -> 2
@@ -44,9 +45,9 @@ Level 2
 Level 3
 --------
 
-7. Write a function to find is word palindrome.
+7. Write a function to find out if the word is a palindrome.
    Please use next validation procedure: calculate each letter occurrence in
-   word, word will be palindrome if all letters occurrences count іs even
+   a word; word will be a palindrome if all letters occurrences count іs even
    number except one possible odd number.
 
     racecar

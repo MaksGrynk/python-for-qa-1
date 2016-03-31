@@ -43,9 +43,9 @@ Level 2
    file.
 
 
-5. Write a script to automatically generate directories and files (empty 6
-   files with names task*.py where * is task number between 1 and 6) structure
-   for python-for-qa course. Result should looks like:
+5. Write a script to automatically generate directories and files (empty
+  6 files with names task*.py where * is task number between 1 and 6)
+  structure for python-for-qa course. Result should look the following way:
 
     - python-for-qa
         - lesson1
@@ -61,7 +61,7 @@ Level 3
 
 6. Please figure out information from nginx access logs file - ``log.txt``:
 
-    - all distinct request's status codes
+    - all distinct requests' status codes
 
     - resources users tried to access without permissions (HTTP status 403)
 

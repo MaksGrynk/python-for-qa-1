@@ -24,7 +24,7 @@ Homework 0
 
     b. Initialise local git repository
 
-    c. Create directories structure for home tasks:
+    c. Set up directories structure for home tasks:
 
         - python-for-qa
             - lesson1
