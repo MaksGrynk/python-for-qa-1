@@ -16,14 +16,20 @@ Level 1
 2. Please change ownership for all issues in ``bugs.json`` to 'qa5'. Save
    result to ``bugs_new.json``. Use json loads and dumps methods.
 
-3. XSLT transformation
+3. Write a script to parse ``habraharb_all.xml`` and print each article's
+   title, author and list with categories.
 
 
 Level 2
 --------
 
-4. Write a script to parse ``habraharb_all.xml`` and print each article's
-   title, author and list with categories.
+4. Transform ``course.xml`` to HTML:
+
+    - tag `name` -> <title>;
+
+    - `modules` -> <article> in <body> with <h1> for module name;
+
+    - `examples` -> <ul> and <li>;
 
 
 5. Having data file with web site clients ``clients.json``, find clients
