@@ -44,8 +44,8 @@ Level 2
 
 
 5. Write a script to automatically generate directories and files (empty
-  6 files with names task*.py where * is task number between 1 and 6)
-  structure for python-for-qa course. Result should look the following way:
+   6 files with names task*.py where * is task number between 1 and 6)
+   structure for python-for-qa course. Result should look the following way:
 
     - python-for-qa
         - lesson1
