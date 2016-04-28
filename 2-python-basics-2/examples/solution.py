@@ -1,6 +1,12 @@
 
-
 import csv
+
+
+USERS = {
+    'qa1': 'real name1',
+    'qa2': 'real name2',
+    'qa3': 'real name3'}
+
 
 
 def get_data(path):
@@ -9,64 +15,31 @@ def get_data(path):
         result = []
         for row in reader:
             result.append(row)
-        return result
+    return result
 
-
-def calculate_duplicate_words_rate(str1, str2):
-    if str1 == None:
-        import ipdb; ipdb.set_trace()
-        print('2')
+def calculate_duplicates_words_rate(str1, str2):
     count = 0
     words = str1.split(' ')
+    print(words)
+    print(str2)
     for word in words:
+        print(word, str2, (word in str2))
         if word in str2:
             count += 1
 
-    if count == 0:
-        rate = 0
-    else:
-        rate = int(count / len(words) * 100)
-
-    return rate
+    return int(float(count) / len(words) * 100)
 
 
 def main():
-    data = get_data('Python for QA - bugs list - Sheet1.csv')
-
-    for i in range(len(data), 0, -1):  # reversed, range, enumerate
-        index = i - 1
-        bug = data[index]
-
-        print('Processing bug {}'.format(bug['#']))
-
-        if bug['Environment'] == 'staging':
-            del data[index]
-            continue
-
-        for j in range(index - 1, 0, -1):
-            rate = calculate_duplicate_words_rate(
-                bug['Description'], data[j]['Description'])
-            if rate >= 80:
-                del data[j]
-                break
-
-    print(len(data))
-    for bug in data:
-        print(bug)
-    print('Done')
-
-
-def main2():
-    data = get_data('Python for QA - bugs list - Sheet1.csv')
-    priority_bugs = []
-
+    data = get_data('bugs.csv')
+    priority_issues = []
     for bug in data:
         if bug['Environment'] == 'staging':
             continue
 
         duplicate = False
-        for priority_bug in priority_bugs:
-            rate = calculate_duplicate_words_rate(
+        for priority_bug in priority_issues:
+            rate = calculate_duplicates_words_rate(
                 bug['Description'], priority_bug['Description'])
             if rate >= 80:
                 print('duplicates are: \'{}\' and \'{}\''.format(
@@ -77,11 +50,25 @@ def main2():
         if duplicate:
             continue
 
-        priority_bugs.append(bug)
+        priority_issues.append(bug)
 
-    print(len(priority_bugs))
+    for bug in priority_issues:
+        if bug['Priority'] in ('critical', 'high'):
+            print(bug)
 
+    count = {}
+    for bug in priority_issues:
+        if bug['Owner'] not in count:
+            count[bug['Owner']] = 0
+        count[bug['Owner']] += 1
 
+    print(count)
+
+    for bug in priority_issues:
+        bug['Owner'] = USERS.get(bug['Owner'])
+        print(bug)
+
+    print(max(count))
 
 if __name__ == '__main__':
-    main2()
+    main()
