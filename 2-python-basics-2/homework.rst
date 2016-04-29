@@ -46,13 +46,5 @@ Level 3
 --------
 
 7. Write a function to find out if the word is a palindrome.
-   Please use next validation procedure: calculate each letter occurrence in
-   a word; word will be a palindrome if all letters occurrences count іs even
-   number except one possible odd number.
-
-    racecar
-        r -> 2, a -> 2, c -> 2, e -> 1
-    anna
-        a -> 2, n -> 2
 
 .. some examples copied from https://github.com/vkhoroz/python-training/
