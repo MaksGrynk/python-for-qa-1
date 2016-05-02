@@ -63,6 +63,6 @@ Level 3
 
     - for ``prod_config`` and ``staging_config`` print connection strings in
       the following format
-      ``{dialect}://{user name}:{password}@{host}:{post}/{database name}``
+      ``{dialect}://{user name}:{password}@{host}:{port}/{database name}``
 
 .. some examples copied from https://github.com/vkhoroz/python-training/
