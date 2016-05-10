@@ -541,7 +541,6 @@
 141.170.240.20 - - [14/Mar/2016:15:41:34 +0200] "GET /socket.io/?EIO=3&transport=polling&t=1457962864357-5415&sid=PnjLqvTRz23llV5_AADT HTTP/1.1" 200 4 "http://somehost.com/desk" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36"
 141.170.240.20 - - [14/Mar/2016:15:41:34 +0200] "POST /socket.io/?EIO=3&transport=polling&t=1457962894651-5416&sid=PnjLqvTRz23llV5_AADT HTTP/1.1" 200 2 "http://somehost.com/desk" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36"
 141.170.240.20 - - [14/Mar/2016:15:41:40 +0200] "GET /socket.io/?EIO=3&transport=polling&t=1457962894758-5417&sid=PnjLqvTRz23llV5_AADT HTTP/1.1" 499 0 "http://somehost.com/desk" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36"
-187.180.137.231 - - [14/Mar/2016:17:05:53 +0200] "\xB2x\x92\x1Fi\x9C\xD0\xF1m\xD7\x11_\x92\xBA\xFA\xDB\x02j\xFD\x17\xEF\x88\x0E\xE4+h" 400 173 "-" "-"
 178.216.200.48 - - [14/Mar/2016:18:50:40 +0200] "GET http://testp5.mielno.lubin.pl/testproxy.php HTTP/1.1" 404 7744 "-" "Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/31.0"
 104.148.71.34 - - [14/Mar/2016:18:53:33 +0200] "GET http://domkrim.com/av.php HTTP/1.0" 404 7678 "-" "Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/5.0)"
 104.148.71.34 - - [14/Mar/2016:18:53:34 +0200] "CONNECT www.baidu.com:443 HTTP/1.0" 400 173 "-" "-"
