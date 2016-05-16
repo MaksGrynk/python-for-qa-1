@@ -6,6 +6,7 @@ import os
 
 from datetime import datetime
 from tempfile import NamedTemporaryFile
+from dateutil import parser, tz
 
 
 NGINX_LINE_REGEXP = re.compile(
@@ -36,12 +37,12 @@ def main():
             match = re.match(NGINX_LINE_REGEXP, line)
             if not match:
                 continue
-            # ingnore timezone
-            log_datetime = match.group('dateandtime').split(' ')[0]
-            log_datetime = datetime.strptime(log_datetime, DATE_TIME_FORMAT)
+            log_datetime = match.group('dateandtime').replace(':', ' ', 1)
+            log_datetime = parser.parse(log_datetime)
+            utc_log_datetime = log_datetime.astimezone(tz.tzutc())
             parsed_item = {'ip': match.group('ipaddress'),
-                           'date': log_datetime.strftime(DATE_FORMAT),
-                           'time': log_datetime.strftime(TIME_FORMAT),
+                           'date': utc_log_datetime.strftime(DATE_FORMAT),
+                           'time': utc_log_datetime.strftime(TIME_FORMAT),
                            'method': match.group('method'),
                            'url': match.group('url'),
                            'status_code': match.group('statuscode')}

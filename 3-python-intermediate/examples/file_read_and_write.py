@@ -7,18 +7,5 @@ f.close()
 
 
 f = open('temp.txt', 'r+')
-f.seek(7)
-line = f.readline()
-print(line)
-
 f.write('new line')
 f.close()
-
-
-f = open('temp.txt', 'r')
-print(f.read())
-f.close()
-
-
-
-
