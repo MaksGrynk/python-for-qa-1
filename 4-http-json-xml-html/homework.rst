@@ -17,7 +17,7 @@ Level 1
    result to ``bugs_new.json``. Use json loads and dumps methods.
 
 3. Write a script to parse ``habraharb_all.xml`` and print each article's
-   title, author and list with categories.
+   title, author and all categories.
 
 
 Level 2
