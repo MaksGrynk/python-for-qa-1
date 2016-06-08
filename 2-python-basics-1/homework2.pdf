@@ -1,0 +1,501 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+6 0 obj
+<< /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /Outlines 9 0 R /PageLabels 16 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog >>
+endobj
+8 0 obj
+<< /Author () /CreationDate (D:20160608091330-02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160608091330-02'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (EPAM Python for QA Training) /Trapped /False >>
+endobj
+9 0 obj
+<< /Count 3 /First 10 0 R /Last 12 0 R /Type /Outlines >>
+endobj
+10 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 699.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (Level 1) >>
+endobj
+11 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 413.6236 0 ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (Level 2) >>
+endobj
+12 0 obj
+<< /Dest [ 5 0 R /XYZ 62.69291 269.4236 0 ] /Parent 9 0 R /Prev 11 0 R /Title (Level 3) >>
+endobj
+13 0 obj
+<< /Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages >>
+endobj
+14 0 obj
+<< /Length 6521 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 93.26488 0 Td (EPAM Python for QA Training) Tj T* -93.26488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 183.6824 0 Td (Homework 2-1) Tj T* -183.6824 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Level 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 596.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 54.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 54.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write a program to calculate expression:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F3 10 Tf 12 TL (1 + 2a    4\(b + c\)\(5 - d - e\)     7     2) Tj T* (------  + ------------------- - 6\(- + h\)) Tj T* (  3               f               g) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 596.8236 cm
+Q
+q
+1 0 0 1 62.69291 578.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (where a = 32, b = 37.2, c = -102.345, d = 45, e = 11, f = 3, g = 0.002, h = 11.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 572.8236 cm
+Q
+q
+1 0 0 1 62.69291 572.8236 cm
+Q
+q
+1 0 0 1 62.69291 443.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 114.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 114.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Print this ASCII graphic using 4 different string literal types:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 108 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F3 10 Tf 12 TL (_-_-_-_-_-_-_) Tj T* (\\           /) Tj T* (|  ^_____^  |) Tj T* (/  \(.\) \(.\)  \\) Tj T* (|  \( t   \)  |  Miaowww) Tj T* (\\    ==/    /) Tj T* (|           |) Tj T* ('"'"'"'"'"'"') Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 437.6236 cm
+Q
+q
+1 0 0 1 62.69291 425.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Print unique elements from any given list or tuple.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 425.6236 cm
+Q
+q
+1 0 0 1 62.69291 392.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Level 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 380.6236 cm
+Q
+q
+1 0 0 1 62.69291 380.6236 cm
+Q
+q
+1 0 0 1 62.69291 356.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .822927 Tw (Write a program to calculate the number of times that the string 'hi' appears anywhere in the given) Tj T* 0 Tw (string and change 'hi' to 'bye'. Case should be ignored.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 350.6236 cm
+Q
+q
+1 0 0 1 62.69291 281.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 54.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 54.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unite three lists to one and print it in reverse order:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F3 10 Tf 12 TL (list1 = [1, 2, 3]) Tj T* (list2 = [4, 5, 6]) Tj T* (list3 = [7, 8, 9]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 281.4236 cm
+Q
+q
+1 0 0 1 62.69291 248.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Level 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 236.4236 cm
+Q
+q
+1 0 0 1 62.69291 236.4236 cm
+Q
+q
+1 0 0 1 62.69291 182.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+q
+BT 1 0 0 1 0 38 Tm 150.6549 Tw 12 TL /F1 10 Tf 0 0 0 rg (Having tuple ) Tj /F3 10 Tf 0 0 0 rg (\('postgresql',) Tj T* 0 Tw 6.065953 Tw ('semantic.amazonaws-prod.com',) Tj ( ) Tj (5432,) Tj ( ) Tj ('semantic',) Tj ( ) Tj ('admin',) Tj ( ) Tj ('12345'\) ) Tj /F1 10 Tf 0 0 0 rg (with) Tj T* 0 Tw 4.556976 Tw (production database connection properties \(dialect, host, port, database name, user name,) Tj T* 0 Tw (password\), program should:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 92.55748 Tm  T* ET
+q
+1 0 0 1 23 18.55748 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.319976 Tw 12 TL /F1 10 Tf 0 0 0 rg (create ) Tj /F3 10 Tf 0 0 0 rg (prod_config ) Tj /F1 10 Tf 0 0 0 rg (dictionary, where dict keys are connection properties names and) Tj T* 0 Tw (dict values are appropriate values from the input tuple;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (create ) Tj /F3 10 Tf 0 0 0 rg (staging_config ) Tj /F1 10 Tf 0 0 0 rg (dictionary with the same keys and values as ) Tj /F3 10 Tf 0 0 0 rg (prod_config) Tj /F1 10 Tf 0 0 0 rg (;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.388538 Tw 12 TL /F1 10 Tf 0 0 0 rg (in ) Tj /F3 10 Tf 0 0 0 rg (staging_config ) Tj /F1 10 Tf 0 0 0 rg (change host to 'semantic.amazonaws-staging.com' and password) Tj T* 0 Tw (to 'root';) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+15 0 obj
+<< /Length 892 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 11 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .511976 Tw 12 TL /F1 10 Tf 0 0 0 rg (for ) Tj /F3 10 Tf 0 0 0 rg (prod_config ) Tj /F1 10 Tf 0 0 0 rg (and ) Tj /F3 10 Tf 0 0 0 rg (staging_config ) Tj /F1 10 Tf 0 0 0 rg (print connection strings in the following format) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg ({dialect}://{user) Tj ( ) Tj (name}:{password}@{host}:{port}/{database) Tj ( ) Tj (name}) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 741.0236 cm
+Q
+ 
+endstream
+endobj
+16 0 obj
+<< /Nums [ 0 17 0 R 1 18 0 R ] >>
+endobj
+17 0 obj
+<< /S /D /St 1 >>
+endobj
+18 0 obj
+<< /S /D /St 2 >>
+endobj
+xref
+0 19
+0000000000 65535 f
+0000000075 00000 n
+0000000129 00000 n
+0000000239 00000 n
+0000000354 00000 n
+0000000462 00000 n
+0000000671 00000 n
+0000000880 00000 n
+0000000987 00000 n
+0000001275 00000 n
+0000001351 00000 n
+0000001461 00000 n
+0000001584 00000 n
+0000001694 00000 n
+0000001763 00000 n
+0000008341 00000 n
+0000009289 00000 n
+0000009342 00000 n
+0000009379 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\355\220\201\360,=\003.\336\010\347\311\367\017sa) (\355\220\201\360,=\003.\336\010\347\311\367\017sa)]
+ /Info 8 0 R /Root 7 0 R /Size 19 >>
+startxref
+9416
+%%EOF

@@ -1,0 +1,493 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 5 0 R /F4 6 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (http://deshevshe.net.ua/) >> /Border [ 0 0 0 ] /Rect [ 346.5159 651.0236 400.8452 663.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /A << /S /URI /Type /Action /URI (https://python-for-qa.herokuapp.com/login) >> /Border [ 0 0 0 ] /Rect [ 514.2427 456.0236 531.024 468.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+8 0 obj
+<< /A << /S /URI /Type /Action /URI (https://python-for-qa.herokuapp.com/login) >> /Border [ 0 0 0 ] /Rect [ 85.69291 444.0236 120.1429 456.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /A << /S /URI /Type /Action /URI (https://python-for-qa.herokuapp.com/data) >> /Border [ 0 0 0 ] /Rect [ 145.3629 348.0236 328.7929 360.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+10 0 obj
+<< /A << /S /URI /Type /Action /URI (https://python-for-qa.herokuapp.com/login) >> /Border [ 0 0 0 ] /Rect [ 312.164 300.0236 502.0227 312.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+11 0 obj
+<< /Annots [ 4 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+12 0 obj
+<< /Outlines 14 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog >>
+endobj
+13 0 obj
+<< /Author () /CreationDate (D:20160608091423-02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160608091423-02'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (EPAM Python for QA Training) /Trapped /False >>
+endobj
+14 0 obj
+<< /Count 3 /First 15 0 R /Last 17 0 R /Type /Outlines >>
+endobj
+15 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 699.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (Level 1) >>
+endobj
+16 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 582.0236 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Level 2) >>
+endobj
+17 0 obj
+<< /Dest [ 11 0 R /XYZ 62.69291 435.0236 0 ] /Parent 14 0 R /Prev 16 0 R /Title (Level 3) >>
+endobj
+18 0 obj
+<< /Count 1 /Kids [ 11 0 R ] /Type /Pages >>
+endobj
+19 0 obj
+<< /Length 6932 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 93.26488 0 Td (EPAM Python for QA Training) Tj T* -93.26488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 190.3499 0 Td (Homework 4) Tj T* -190.3499 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Level 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.52936 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write a function to get product price from web page for ) Tj 0 0 .501961 rg (Deshevshe ) Tj 0 0 0 rg (site.Handle the case when a) Tj T* 0 Tw (product is out of stock.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.447674 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please change ownership for all issues in ) Tj /F3 10 Tf 0 0 0 rg (bugs.json ) Tj /F1 10 Tf 0 0 0 rg (to 'qa5'. Save result to ) Tj /F3 10 Tf 0 0 0 rg (bugs_new.json) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* 0 Tw (Use json loads and dumps methods.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Write a script to parse ) Tj /F3 10 Tf 0 0 0 rg (habraharb_all.xml ) Tj /F1 10 Tf 0 0 0 rg (and print each article's title, author and all categories.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Level 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 57 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Transform ) Tj /F3 10 Tf 0 0 0 rg (course.xml ) Tj /F1 10 Tf 0 0 0 rg (to HTML:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (tag ) Tj /F4 10 Tf 0 0 0 rg (name ) Tj /F1 10 Tf 0 0 0 rg (-) Tj (> <) Tj (title) Tj (>) Tj (;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (modules ) Tj /F1 10 Tf 0 0 0 rg (-) Tj (> <) Tj (article) Tj (> in <) Tj (body) Tj (> with <) Tj (h1) Tj (> for module name;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (examples ) Tj /F1 10 Tf 0 0 0 rg (-) Tj (> <) Tj (ul) Tj (> and <) Tj (li) Tj (>) Tj (;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.558651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Having data file with web site clients ) Tj /F3 10 Tf 0 0 0 rg (clients.json) Tj /F1 10 Tf 0 0 0 rg (, find clients who don't have access to ) Tj 0 0 .501961 rg (web) Tj T* 0 Tw (service ) Tj 0 0 0 rg (\(site uses Basic Authentication\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+Q
+q
+1 0 0 1 62.69291 414.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Level 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .90811 Tw (Write a program to compare web service result in XML and JSON formats. Here is the information) Tj T* 0 Tw (about web service:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 93 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 78 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (url: ) Tj 0 0 .501961 rg (https://python-for-qa.herokuapp.com/data) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 6.590976 Tw 12 TL /F1 10 Tf 0 0 0 rg (uses token based authentication, token should be passed in request header:) Tj T* 0 Tw /F3 10 Tf 0 0 0 rg (X-AUTH-TOKEN) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.76872 Tw 12 TL /F1 10 Tf 0 0 0 rg (to get token send GET request to ) Tj 0 0 .501961 rg (https://python-for-qa.herokuapp.com/login ) Tj 0 0 0 rg (\(Basic) Tj T* 0 Tw (Authentication, user=``admin``, password=``password``\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (service returns data in XML and JSON formats based on ) Tj /F3 10 Tf 0 0 0 rg (Accept ) Tj /F1 10 Tf 0 0 0 rg (header) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+Q
+ 
+endstream
+endobj
+20 0 obj
+<< /Nums [ 0 21 0 R ] >>
+endobj
+21 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 22
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000543 00000 n
+0000000651 00000 n
+0000000769 00000 n
+0000000964 00000 n
+0000001160 00000 n
+0000001355 00000 n
+0000001551 00000 n
+0000001804 00000 n
+0000001913 00000 n
+0000002202 00000 n
+0000002279 00000 n
+0000002391 00000 n
+0000002516 00000 n
+0000002628 00000 n
+0000002692 00000 n
+0000009681 00000 n
+0000009725 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\374\373\317\236\345"\355\0223\203\324\344\021\214\015O) (\374\373\317\236\345"\355\0223\203\324\344\021\214\015O)]
+ /Info 13 0 R /Root 12 0 R /Size 22 >>
+startxref
+9762
+%%EOF

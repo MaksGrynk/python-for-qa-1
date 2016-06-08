@@ -1,0 +1,340 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+7 0 obj
+<< /Outlines 9 0 R /PageLabels 15 0 R /PageMode /UseNone /Pages 13 0 R /Type /Catalog >>
+endobj
+8 0 obj
+<< /Author () /CreationDate (D:20160608091353-02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160608091353-02'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (EPAM Python for QA Training) /Trapped /False >>
+endobj
+9 0 obj
+<< /Count 3 /First 10 0 R /Last 12 0 R /Type /Outlines >>
+endobj
+10 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 699.0236 0 ] /Next 11 0 R /Parent 9 0 R /Title (Level 1) >>
+endobj
+11 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 536.8236 0 ] /Next 12 0 R /Parent 9 0 R /Prev 10 0 R /Title (Level 2) >>
+endobj
+12 0 obj
+<< /Dest [ 6 0 R /XYZ 62.69291 326.6236 0 ] /Parent 9 0 R /Prev 11 0 R /Title (Level 3) >>
+endobj
+13 0 obj
+<< /Count 1 /Kids [ 6 0 R ] /Type /Pages >>
+endobj
+14 0 obj
+<< /Length 5250 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 93.26488 0 Td (EPAM Python for QA Training) Tj T* -93.26488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 183.6824 0 Td (Homework 2-2) Tj T* -183.6824 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Level 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .361163 Tw (Write a function which takes a string and returns its first 10 characters concatenated with the last 10) Tj T* 0 Tw (characters.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .334651 Tw (Write a function that takes a comma-separated string and returns the last element \(separated by the) Tj T* 0 Tw (last comma\) or the entire string, if there is no comma in it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+Q
+q
+1 0 0 1 62.69291 548.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 30.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .806988 Tw (Write a function that takes a list and returns a new list that contains all the elements of the first list) Tj T* 0 Tw (minus all the duplicates:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg ([1, 2, 3, 4, 4, 6, 2] -) Tj (>) Tj ( [1, 3, 6]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 548.8236 cm
+Q
+q
+1 0 0 1 62.69291 515.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Level 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 503.8236 cm
+Q
+q
+1 0 0 1 62.69291 503.8236 cm
+Q
+q
+1 0 0 1 62.69291 479.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .667485 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write program to evaluate ) Tj /F3 10 Tf 0 0 0 rg (\(a) Tj ( ) Tj (or) Tj ( ) Tj (not) Tj ( ) Tj (b\)) Tj ( ) Tj (and) Tj ( ) Tj (\(c) Tj ( ) Tj (or) Tj ( ) Tj (not) Tj ( ) Tj (a\) ) Tj /F1 10 Tf 0 0 0 rg (expression for boolean varibles) Tj T* 0 Tw /F4 10 Tf 0 0 0 rg (a) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (b) Tj /F1 10 Tf 0 0 0 rg (, ) Tj /F4 10 Tf 0 0 0 rg (c ) Tj /F1 10 Tf 0 0 0 rg (showing result for all possible variables combinations.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 473.8236 cm
+Q
+q
+1 0 0 1 62.69291 368.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 90.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 66.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .469461 Tw (Write a function to return the sum of the numbers in the array, returning 0 for an empty array. Since) Tj T* 0 Tw .124431 Tw (the number 13 is very unlucky, it does not count, and numbers that come immediately after a 13 also) Tj T* 0 Tw (do not count. Array could contain strings and boolean values \(do not count them too\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F3 10 Tf 0 0 0 rg (sum13\([1, 2, 2, 1]\) -) Tj (>) Tj ( 6) Tj T* (sum13\([1, 1]\) -) Tj (>) Tj ( 2) Tj T* (sum13\([1, 2, 2, 1, 13]\) -) Tj (>) Tj ( 6) Tj T* (sum13\([1, 2, 2, 1, 13, 5, 4, 2]\) -) Tj (>) Tj ( 6) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 362.6236 cm
+Q
+q
+1 0 0 1 62.69291 338.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (6.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .86936 Tw (Write a function that returns dictionary where keys are even numbers between 1 and n and values) Tj T* 0 Tw (are keys in square, by default n = 100.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 338.6236 cm
+Q
+q
+1 0 0 1 62.69291 305.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Level 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 293.6236 cm
+Q
+q
+1 0 0 1 62.69291 293.6236 cm
+Q
+q
+1 0 0 1 62.69291 281.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (7.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Write a function to find out if the word is a palindrome.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 281.6236 cm
+Q
+ 
+endstream
+endobj
+15 0 obj
+<< /Nums [ 0 16 0 R ] >>
+endobj
+16 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 17
+0000000000 65535 f
+0000000075 00000 n
+0000000139 00000 n
+0000000249 00000 n
+0000000364 00000 n
+0000000472 00000 n
+0000000590 00000 n
+0000000799 00000 n
+0000000906 00000 n
+0000001194 00000 n
+0000001270 00000 n
+0000001380 00000 n
+0000001503 00000 n
+0000001613 00000 n
+0000001676 00000 n
+0000006983 00000 n
+0000007027 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(K\241\252\222S7OF=\266l\347n\303y\314) (K\241\252\222S7OF=\266l\347n\303y\314)]
+ /Info 8 0 R /Root 7 0 R /Size 17 >>
+startxref
+7064
+%%EOF

@@ -6,5 +6,6 @@ name = 'курс пайтону'
 unicode_name = name.decode('utf-8')
 # u'\u043a\u0443\u0440\u0441 \u043f\u0430\u0439\u0442\u043e\u043d\u0443'
 
+print(unicode_name)
 import ipdb; ipdb.set_trace()
 

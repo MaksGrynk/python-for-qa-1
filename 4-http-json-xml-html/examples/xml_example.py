@@ -5,6 +5,7 @@ import xml.etree.ElementTree as etree
 def main():
     # parse xml
     course_xml = etree.parse('course.xml')
+    import ipdb; ipdb.set_trace()
 
     # get root object
     root = course_xml.getroot()  # <Element 'course' at 0x10afd48d0>
